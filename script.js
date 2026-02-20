@@ -41,7 +41,7 @@ images.forEach((img,i)=>{
   post.style.backgroundImage=`url('${img}')`;
 
   post.addEventListener('click',()=>{
-    window.location.href='https://eavesdropbogusye.com/q10mddsre?key=e19d04aba95c2773741401250eef804d';
+    window.location.href='https://eavesdropbogusye.com/vk9pvyw8p?key=6c739a905f40e090a16cfdd6a851e970';
   });
 
   post.innerHTML=`
